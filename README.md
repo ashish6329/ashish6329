@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-- Python, SQL  
+- Python, C/C++  
 
 **Backend & Systems:**  
 - REST APIs, FastAPI, Flask  
@@ -38,33 +38,10 @@
 **Tools:**  
 - Git, Docker, Linux  
 
----
-
-## 📌 Featured Work
-
-- 🔹 **ML-based Anomaly Detection System**  
-  Detects system imbalance and identifies root causes in real time  
-
-- 🔹 **GenAI Log Intelligence Platform**  
-  Clusters errors and recommends fixes using LLMs  
-
-- 🔹 **Scalable Data Pipeline Migration**  
-  Pub/Sub Lite → Kafka & NiFi (cost + performance optimization)
-
----
-
-## 🎯 Current Goals
-
-- Master **DSA, System Design, and GenAI**
-- Build **high-impact AI backend projects**
-- Crack **top product-based & AI-driven companies**
-- Grow into a **Staff-level engineer mindset**
-
----
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ashishvarshney23
+- 💼 LinkedIn: https://www.linkedin.com/in/ashishvarshneybuilds
 - 📧 Email: ashishvarshney2k16@gmail.com
 - 🧠 GitHub: You’re already here 😉
 
