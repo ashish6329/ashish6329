@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi, I'm Ashish Varshney 👋
 
 🚀 Backend Engineer | AI/ML & GenAI  
@@ -74,5 +71,3 @@
 ---
 
 ⭐ If you like my work, feel free to star my repositories!
-
--->
