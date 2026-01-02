@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- Backend Software Engineer with **2.5+ years** of experience
+- Backend Software Engineer with **2.6+ years** of experience
 - Strong expertise in **Python backend systems, APIs, data pipelines**
 - Built **ML-based anomaly detection systems** in production
 - Experience with **GenAI, NLP, MLOps, and observability platforms**
